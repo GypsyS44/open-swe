@@ -3284,22 +3284,22 @@ __metadata:
   linkType: hard
 
 "@langchain/core@npm:^0.3.65":
-  version: 0.3.65
-  resolution: "@langchain/core@npm:0.3.65"
+  version: 0.3.80
+  resolution: "@langchain/core@npm:0.3.80"
   dependencies:
     "@cfworker/json-schema": ^4.0.2
     ansi-styles: ^5.0.0
     camelcase: 6
     decamelize: 1.2.0
     js-tiktoken: ^1.0.12
-    langsmith: ^0.3.46
+    langsmith: ^0.3.67
     mustache: ^4.2.0
     p-queue: ^6.6.2
     p-retry: 4
     uuid: ^10.0.0
     zod: ^3.25.32
     zod-to-json-schema: ^3.22.3
-  checksum: f01f63ac59f555851d02953152fd92fb2c200502688a49c7caa2dd9549a4fe125c0c6525faaeeeb3e138c1434ccd72ee482eda5bef8e568b866a9d41c259bf08
+  checksum: b11dbcfff1f63b2db55d655867440cd69bd6bd4f21c7b0167e5eae2dcea37195a8243db93e024c8e3cddac5ac11e8771cf38b032788210eb28204e955424ea61
   languageName: node
   linkType: hard
 
@@ -14426,14 +14426,13 @@ __metadata:
   linkType: hard
 
 "langsmith@npm:^0.3.48":
-  version: 0.3.48
-  resolution: "langsmith@npm:0.3.48"
+  version: 0.3.87
+  resolution: "langsmith@npm:0.3.87"
   dependencies:
     "@types/uuid": ^10.0.0
     chalk: ^4.1.2
     console-table-printer: ^2.12.1
     p-queue: ^6.6.2
-    p-retry: 4
     semver: ^7.6.3
     uuid: ^10.0.0
   peerDependencies:
@@ -14450,7 +14449,7 @@ __metadata:
       optional: true
     openai:
       optional: true
-  checksum: bb535aec6ae05cd8f07bb4f32ccffa06f91793360bcd5045cab1387e52322756c5592dbdcb67e5b5358818da1913958cd63716ce6d4d3e9e016cfd3737bd57fe
+  checksum: 30b9b076199c4201ab475440e9887da58884d4c10e0cbcee554c7cffe0c42d9169224452904400d8e6c441d715217c479865fca484d4624c30160f4df6e4b6c8
   languageName: node
   linkType: hard
 
