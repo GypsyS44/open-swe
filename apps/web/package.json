@@ -20,7 +20,7 @@
     "clean": "rm -rf .turbo .next || true && rm next-env.d.ts || true"
   },
   "dependencies": {
-    "@langchain/core": "^0.3.80",
+    "@langchain/core": "^1.1.44",
     "@langchain/langgraph": "^0.3.8",
     "@langchain/langgraph-sdk": "^0.0.95",
     "@octokit/app": "^16.0.1",
@@ -67,7 +67,7 @@
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7",
     "use-stick-to-bottom": "^1.0.46",
-    "uuid": "^11.1.0",
+    "uuid": "^14.0.0",
     "zod": "^3.25.32",
     "zustand": "^5.0.5"
   },
