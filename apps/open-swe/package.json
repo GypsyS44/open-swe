@@ -44,8 +44,8 @@
     "hono": "^4.8.3",
     "jsonwebtoken": "^9.0.2",
     "langchain": "^1.2.25",
-    "langsmith": "^0.4.6",
-    "uuid": "^11.0.5",
+    "langsmith": "^0.7.2",
+    "uuid": "^14.0.0",
     "zod": "^3.25.32"
   },
   "devDependencies": {
